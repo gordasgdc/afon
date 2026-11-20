@@ -14,7 +14,7 @@ Website: <a href="https://gordas.dev/afon/">https://gordas.dev/afon/</a></p>
 
 ## English
 
-**Status:** in final verification before launch. There is no public download yet; it will be published on [gordas.dev/afon](https://gordas.dev/afon/) once the release checks are complete. At launch, every feature can be tried for 5 days, after which continued use can be requested from inside the app.
+**Status:** in final verification before launch. There is no public download yet; it will be published on [gordas.dev/afon](https://gordas.dev/afon/) once the release checks are complete. At launch, a full 5-day trial with every feature can be requested from inside the app; continued use is requested from the app as well.
 
 This repository contains the public presentation, documentation and, after launch, the distribution of AFON. The application source code is proprietary and is not published here.
 
@@ -61,7 +61,7 @@ Information, launch news and contact: [https://gordas.dev/afon/](https://gordas.
 
 ## Română
 
-**Stare:** în verificarea finală înainte de lansare. Nu există încă o descărcare publică; ea va fi publicată pe [gordas.dev/afon](https://gordas.dev/afon/) după încheierea verificărilor de lansare. La lansare, toate funcțiile se pot încerca 5 zile, apoi continuarea se cere direct din aplicație.
+**Stare:** în verificarea finală înainte de lansare. Nu există încă o descărcare publică; ea va fi publicată pe [gordas.dev/afon](https://gordas.dev/afon/) după încheierea verificărilor de lansare. La lansare, o probă completă de 5 zile, cu toate funcțiile, se cere din aplicație; continuarea se cere tot din aplicație.
 
 Acest repository conține prezentarea publică, documentația și, după lansare, distribuția AFON. Codul sursă al aplicației este proprietar și nu este publicat aici.
 
@@ -102,7 +102,7 @@ Informații, noutăți despre lansare și contact: [https://gordas.dev/afon/](ht
 
 ## Español
 
-**Estado:** en verificación final antes del lanzamiento. Todavía no hay descarga pública; se publicará en [gordas.dev/afon](https://gordas.dev/afon/) cuando terminen las comprobaciones de lanzamiento. En el lanzamiento podrás probar todas las funciones durante 5 días y después pedir la continuación desde la propia app.
+**Estado:** en verificación final antes del lanzamiento. Todavía no hay descarga pública; se publicará en [gordas.dev/afon](https://gordas.dev/afon/) cuando terminen las comprobaciones de lanzamiento. En el lanzamiento, una prueba completa de 5 días con todas las funciones se solicita desde la app; la continuación también se pide desde la app.
 
 Este repositorio contiene la presentación pública, la documentación y, tras el lanzamiento, la distribución de AFON. El código fuente de la aplicación es propietario y no se publica aquí.
 
