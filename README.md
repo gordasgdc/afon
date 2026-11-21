@@ -14,7 +14,7 @@ Website: <a href="https://gordas.dev/afon/">https://gordas.dev/afon/</a></p>
 
 ## English
 
-**Download:** AFON 0.6.1 for Mac — [gordas.dev/afon](https://gordas.dev/afon/) (also attached to the [latest release](../../releases/latest)). A full 5-day trial with every feature is requested from inside the app; once approved, the 5 days start at the first activation, once per computer. Continued use is requested from the app as well.
+**Download:** AFON 0.6.2 for Mac — [gordas.dev/afon](https://gordas.dev/afon/) (also attached to the [latest release](../../releases/latest)). A full 5-day trial with every feature is requested from inside the app; once approved, the 5 days start at the first activation, once per computer. Continued use is requested from the app as well.
 
 This repository contains the public presentation, documentation and distribution of AFON. The application source code is proprietary and is not published here.
 
@@ -61,7 +61,7 @@ Information, launch news and contact: [https://gordas.dev/afon/](https://gordas.
 
 ## Română
 
-**Descărcare:** AFON 0.6.1 pentru Mac — [gordas.dev/afon](https://gordas.dev/afon/) (și în [ultimul release](../../releases/latest)). Proba completă de 5 zile, cu toate funcțiile, se cere din aplicație; după aprobare, cele 5 zile încep la prima activare, o singură dată pe calculator. Continuarea se cere tot din aplicație.
+**Descărcare:** AFON 0.6.2 pentru Mac — [gordas.dev/afon](https://gordas.dev/afon/) (și în [ultimul release](../../releases/latest)). Proba completă de 5 zile, cu toate funcțiile, se cere din aplicație; după aprobare, cele 5 zile încep la prima activare, o singură dată pe calculator. Continuarea se cere tot din aplicație.
 
 Acest repository conține prezentarea publică, documentația și distribuția AFON. Codul sursă al aplicației este proprietar și nu este publicat aici.
 
@@ -102,7 +102,7 @@ Informații, noutăți despre lansare și contact: [https://gordas.dev/afon/](ht
 
 ## Español
 
-**Descarga:** AFON 0.6.1 para Mac — [gordas.dev/afon](https://gordas.dev/afon/) (también en la [última versión publicada](../../releases/latest)). La prueba completa de 5 días con todas las funciones se solicita desde la app; tras la aprobación, los 5 días empiezan en la primera activación, una sola vez por ordenador. La continuación también se pide desde la app.
+**Descarga:** AFON 0.6.2 para Mac — [gordas.dev/afon](https://gordas.dev/afon/) (también en la [última versión publicada](../../releases/latest)). La prueba completa de 5 días con todas las funciones se solicita desde la app; tras la aprobación, los 5 días empiezan en la primera activación, una sola vez por ordenador. La continuación también se pide desde la app.
 
 Este repositorio contiene la presentación pública, la documentación y la distribución de AFON. El código fuente de la aplicación es propietario y no se publica aquí.
 
