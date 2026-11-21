@@ -14,9 +14,9 @@ Website: <a href="https://gordas.dev/afon/">https://gordas.dev/afon/</a></p>
 
 ## English
 
-**Status:** in final verification before launch. There is no public download yet; it will be published on [gordas.dev/afon](https://gordas.dev/afon/) once the release checks are complete. At launch, a full 5-day trial with every feature can be requested from inside the app; continued use is requested from the app as well.
+**Download:** AFON 0.6.0 for Mac — [gordas.dev/afon](https://gordas.dev/afon/) (also attached to the [latest release](../../releases/latest)). A full 5-day trial with every feature is requested from inside the app; once approved, the 5 days start at the first activation, once per computer. Continued use is requested from the app as well.
 
-This repository contains the public presentation, documentation and, after launch, the distribution of AFON. The application source code is proprietary and is not published here.
+This repository contains the public presentation, documentation and distribution of AFON. The application source code is proprietary and is not published here.
 
 ### What AFON does
 
@@ -49,9 +49,9 @@ Not transferred from Resolve: level, pan, EQ, Fairlight processing, transitions 
 
 ### Requirements
 
-- macOS 14 (Sonoma) or later
+- macOS 27 (verified on macOS 27.0.1)
 - Mac with Apple silicon (M1 or later)
-- DaVinci Resolve Studio on the same Mac for the integration (the app also works without Resolve)
+- DaVinci Resolve Studio (verified with 21.2) on the same Mac for the integration (the app also works without Resolve)
 
 ### Support
 
@@ -61,9 +61,9 @@ Information, launch news and contact: [https://gordas.dev/afon/](https://gordas.
 
 ## Română
 
-**Stare:** în verificarea finală înainte de lansare. Nu există încă o descărcare publică; ea va fi publicată pe [gordas.dev/afon](https://gordas.dev/afon/) după încheierea verificărilor de lansare. La lansare, o probă completă de 5 zile, cu toate funcțiile, se cere din aplicație; continuarea se cere tot din aplicație.
+**Descărcare:** AFON 0.6.0 pentru Mac — [gordas.dev/afon](https://gordas.dev/afon/) (și în [ultimul release](../../releases/latest)). Proba completă de 5 zile, cu toate funcțiile, se cere din aplicație; după aprobare, cele 5 zile încep la prima activare, o singură dată pe calculator. Continuarea se cere tot din aplicație.
 
-Acest repository conține prezentarea publică, documentația și, după lansare, distribuția AFON. Codul sursă al aplicației este proprietar și nu este publicat aici.
+Acest repository conține prezentarea publică, documentația și distribuția AFON. Codul sursă al aplicației este proprietar și nu este publicat aici.
 
 ### Ce face AFON
 
@@ -90,9 +90,9 @@ Nu se preiau din Resolve: nivelul, panoramarea, EQ, procesarea Fairlight, tranzi
 
 ### Cerințe
 
-- macOS 14 (Sonoma) sau mai nou
+- macOS 27 (verificat pe macOS 27.0.1)
 - Mac cu Apple silicon (M1 sau mai nou)
-- DaVinci Resolve Studio pe același Mac pentru integrare (aplicația funcționează și fără Resolve)
+- DaVinci Resolve Studio (verificat cu 21.2) pe același Mac pentru integrare (aplicația funcționează și fără Resolve)
 
 ### Suport
 
@@ -102,9 +102,9 @@ Informații, noutăți despre lansare și contact: [https://gordas.dev/afon/](ht
 
 ## Español
 
-**Estado:** en verificación final antes del lanzamiento. Todavía no hay descarga pública; se publicará en [gordas.dev/afon](https://gordas.dev/afon/) cuando terminen las comprobaciones de lanzamiento. En el lanzamiento, una prueba completa de 5 días con todas las funciones se solicita desde la app; la continuación también se pide desde la app.
+**Descarga:** AFON 0.6.0 para Mac — [gordas.dev/afon](https://gordas.dev/afon/) (también en la [última versión publicada](../../releases/latest)). La prueba completa de 5 días con todas las funciones se solicita desde la app; tras la aprobación, los 5 días empiezan en la primera activación, una sola vez por ordenador. La continuación también se pide desde la app.
 
-Este repositorio contiene la presentación pública, la documentación y, tras el lanzamiento, la distribución de AFON. El código fuente de la aplicación es propietario y no se publica aquí.
+Este repositorio contiene la presentación pública, la documentación y la distribución de AFON. El código fuente de la aplicación es propietario y no se publica aquí.
 
 ### Qué hace AFON
 
@@ -122,9 +122,9 @@ Tus archivos originales nunca se modifican.
 
 ### Requisitos
 
-- macOS 14 (Sonoma) o posterior
+- macOS 27 (verificado en macOS 27.0.1)
 - Mac con Apple silicon (M1 o posterior)
-- DaVinci Resolve Studio en el mismo Mac para la integración (la app también funciona sin Resolve)
+- DaVinci Resolve Studio (verificado con 21.2) en el mismo Mac para la integración (la app también funciona sin Resolve)
 
 ### Soporte
 
